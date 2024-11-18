@@ -1,0 +1,148 @@
+### **Present and Past Continuous Passive**  
+
+A voz passiva contínua no presente e no passado é usada para destacar ações que estão em andamento, enquanto o foco ainda está no objeto que recebe a ação. Essa construção é menos comum que a passiva simples, mas muito útil em contextos formais e descritivos.
+
+---
+
+### **1. Estrutura da Voz Passiva Contínua**
+
+#### **Fórmula Geral**:  
+- **Sujeito** + **verbo “to be” conjugado** + **“being”** + **verbo principal no particípio passado**.
+
+---
+
+### **2. Present Continuous Passive**  
+Usado para descrever ações em andamento no momento presente.
+
+#### **Estrutura:**  
+- Sujeito + am/is/are + being + particípio passado.
+
+#### **Exemplo:**  
+- **Ativo**: *They are repairing the car.*  
+  *(Eles estão consertando o carro.)*  
+- **Passivo**: *The car is being repaired.*  
+  *(O carro está sendo consertado.)*
+
+---
+
+### **3. Past Continuous Passive**  
+Usado para descrever ações que estavam em andamento em um momento específico no passado.
+
+#### **Estrutura:**  
+- Sujeito + was/were + being + particípio passado.
+
+#### **Exemplo:**  
+- **Ativo**: *They were painting the house yesterday.*  
+  *(Eles estavam pintando a casa ontem.)*  
+- **Passivo**: *The house was being painted yesterday.*  
+  *(A casa estava sendo pintada ontem.)*
+
+---
+
+### **4. Diferenças Entre Present e Past Continuous Passive**
+
+| **Aspecto**             | **Present Continuous Passive**                | **Past Continuous Passive**                   |
+|--------------------------|-----------------------------------------------|-----------------------------------------------|
+| **Tempo**               | A ação está acontecendo agora.               | A ação estava acontecendo no passado.         |
+| **Exemplo Ativo**       | *They are cleaning the streets.*              | *They were cleaning the streets.*             |
+| **Exemplo Passivo**     | *The streets are being cleaned.*              | *The streets were being cleaned.*             |
+
+---
+
+### **5. Quando Usar a Voz Passiva Contínua?**
+
+1. **Foco no objeto da ação enquanto ela está acontecendo.**  
+   - *The documents are being reviewed by the manager.*  
+     *(Os documentos estão sendo revisados pelo gerente.)*
+
+2. **Quando o agente da ação não é importante ou é desconhecido.**  
+   - *A new road is being built.*  
+     *(Uma nova estrada está sendo construída.)*
+
+3. **Para ações temporárias.**  
+   - *The hall is being decorated for the event.*  
+     *(O salão está sendo decorado para o evento.)*
+
+---
+
+### **6. Transformando Frases Ativas em Passivas**
+
+#### **Passo a Passo:**
+1. **Identifique o objeto da frase ativa.**  
+   - *She is writing a letter.*  
+2. **Coloque o objeto no lugar do sujeito.**  
+   - *A letter…*  
+3. **Conjugue o verbo “to be” no tempo contínuo correspondente.**  
+   - *A letter is being…*  
+4. **Adicione o particípio passado do verbo principal.**  
+   - *A letter is being written.*  
+
+#### **Exemplos:**  
+- **Ativo**: *They are repairing the roof.*  
+  - **Passivo**: *The roof is being repaired.*  
+- **Ativo**: *She was cleaning the room.*  
+  - **Passivo**: *The room was being cleaned.*
+
+---
+
+### **7. Exemplos Comuns de Uso**
+
+#### **Present Continuous Passive**  
+- *The cake is being baked.*  
+  *(O bolo está sendo assado.)*  
+- *The problem is being discussed by the team.*  
+  *(O problema está sendo discutido pela equipe.)*
+
+#### **Past Continuous Passive**  
+- *The road was being repaired last week.*  
+  *(A estrada estava sendo reparada semana passada.)*  
+- *A movie was being filmed in the park.*  
+  *(Um filme estava sendo filmado no parque.)*
+
+---
+
+### **8. Dicas para Memorizar**
+
+1. **Decore combinações comuns.**  
+   - *is being built, are being painted, was being repaired.*  
+
+2. **Pratique a conjugação de “to be” no contínuo.**  
+   - Presente: *am, is, are*  
+   - Passado: *was, were*
+
+3. **Concentre-se em situações descritivas.**  
+   - Imagine cenários onde a ação está acontecendo:  
+     *The house is being renovated.*  
+
+---
+
+### **9. Exercícios Práticos**
+
+#### **Transforme em Voz Passiva Contínua:**
+1. They are fixing the computer.  
+2. She was washing the dishes.  
+3. The workers are constructing a new bridge.  
+4. Someone is decorating the hall.  
+5. They were organizing the files.
+
+#### **Respostas:**
+1. The computer is being fixed.  
+2. The dishes were being washed.  
+3. A new bridge is being constructed.  
+4. The hall is being decorated.  
+5. The files were being organized.
+
+---
+
+### **10. Dicas Para Não Errar em Provas**
+
+1. **Sempre use “being” na estrutura contínua passiva.**  
+   Sem *being*, a frase pode ser confundida com a passiva simples.  
+
+2. **Certifique-se do tempo verbal correto.**  
+   - Presente: *is being* / *are being*  
+   - Passado: *was being* / *were being*  
+
+3. **Pratique a identificação.**  
+   Em provas, procure por “to be” + “being” + particípio passado para identificar rapidamente a estrutura.
+

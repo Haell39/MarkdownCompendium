@@ -1,0 +1,139 @@
+### **The Simple Passive Voice**  
+A voz passiva simples é uma construção usada para destacar a ação ou o objeto que recebe a ação, em vez de quem a realiza. Ela é muito comum em inglês, especialmente em textos formais, científicos e jornalísticos.
+
+---
+
+### **1. O Que É a Voz Passiva?**
+
+Na voz passiva, o foco está no **objeto que recebe a ação**, e não no sujeito que a realiza.  
+- **Ativo**: *The chef cooked the meal.*  
+  *(O chef preparou a refeição.)*  
+- **Passivo**: *The meal was cooked by the chef.*  
+  *(A refeição foi preparada pelo chef.)*
+
+#### **Estrutura Básica da Voz Passiva**  
+1. **Sujeito** + **verbo “to be” conjugado** + **verbo principal no particípio passado**.  
+   - **Exemplo**:  
+     *The book was written by her.*  
+     *(O livro foi escrito por ela.)*
+
+---
+
+### **2. Formação da Voz Passiva em Diferentes Tempos Verbais**
+
+#### **a. Presente Simples**  
+- **Ativo**: *She writes letters.*  
+  *(Ela escreve cartas.)*  
+- **Passivo**: *Letters are written by her.*  
+  *(Cartas são escritas por ela.)*
+
+#### **b. Passado Simples**  
+- **Ativo**: *They cleaned the room.*  
+  *(Eles limparam o quarto.)*  
+- **Passivo**: *The room was cleaned by them.*  
+  *(O quarto foi limpo por eles.)*
+
+#### **c. Futuro Simples**  
+- **Ativo**: *They will complete the project.*  
+  *(Eles completarão o projeto.)*  
+- **Passivo**: *The project will be completed by them.*  
+  *(O projeto será completado por eles.)*
+
+#### **d. Presente Contínuo**  
+- **Ativo**: *She is reading a book.*  
+  *(Ela está lendo um livro.)*  
+- **Passivo**: *A book is being read by her.*  
+  *(Um livro está sendo lido por ela.)*
+
+---
+
+### **3. Quando Usar a Voz Passiva?**
+
+1. **Quando o agente da ação não é importante ou é óbvio.**  
+   - *The bridge was built in 1990.*  
+     *(A ponte foi construída em 1990.)*  
+   *(O foco está na ponte, não em quem a construiu.)*
+
+2. **Quando o agente é desconhecido.**  
+   - *The painting was stolen.*  
+     *(A pintura foi roubada.)*  
+
+3. **Para destacar o objeto ou a ação em vez do sujeito.**  
+   - *A cure for the disease was discovered.*  
+     *(Uma cura para a doença foi descoberta.)*
+
+4. **Para ser impessoal ou mais formal.**  
+   - *Mistakes were made.*  
+     *(Erros foram cometidos.)*  
+
+---
+
+### **4. Como Transformar Frases Ativas em Passivas**
+
+1. **Identifique o objeto da frase ativa.**  
+   - *She wrote a letter.*  
+     *(Ela escreveu uma carta.)*
+
+2. **Transforme o objeto em sujeito da frase passiva.**  
+   - *A letter…*
+
+3. **Conjugue o verbo “to be” no mesmo tempo do verbo principal da frase ativa.**  
+   - *A letter was…*
+
+4. **Coloque o verbo principal no particípio passado.**  
+   - *A letter was written…*
+
+5. **Adicione o agente (opcional, com “by”).**  
+   - *A letter was written by her.*
+
+---
+
+### **5. Preposições Comuns na Voz Passiva**
+- Use **"by"** para indicar o agente da ação:  
+  *The cake was baked by my mom.*  
+  *(O bolo foi assado pela minha mãe.)*  
+
+- Use **"with"** para indicar o instrumento usado:  
+  *The cake was decorated with icing.*  
+  *(O bolo foi decorado com glacê.)*
+
+---
+
+### **6. Dicas Para Reconhecer e Usar a Voz Passiva**
+
+1. **Fique atento ao verbo "to be".**  
+   A presença do verbo "to be" seguido de um particípio passado geralmente indica voz passiva.
+
+2. **Evite usar em excesso.**  
+   A voz passiva pode deixar o texto menos direto. Prefira a voz ativa para comunicação clara e objetiva.
+
+3. **Pratique converter frases ativas em passivas.**  
+   - *John painted the house.*  
+     - Passivo: *The house was painted by John.*
+
+---
+
+### **7. Exercícios Práticos**
+
+#### **Transforme as Frases Ativas em Passivas:**
+1. They make delicious cakes here.  
+2. The teacher gave us homework.  
+3. Someone stole my wallet.  
+4. She will deliver the package tomorrow.  
+5. The company is building a new office.  
+
+#### **Respostas:**
+1. Delicious cakes are made here.  
+2. Homework was given to us by the teacher.  
+3. My wallet was stolen.  
+4. The package will be delivered tomorrow.  
+5. A new office is being built by the company.  
+
+---
+
+### **8. Dicas Para Não Errar em Provas**
+1. **Revise os tempos verbais.** Certifique-se de que o verbo "to be" está no tempo correto.  
+2. **Pratique expressões fixas.** Decore padrões comuns como *"was built," "is made,"* e *"will be delivered."*  
+3. **Identifique o foco da frase.** Use a voz passiva quando o objeto for mais importante que o sujeito.
+
+Se precisar de mais ajuda ou exercícios, é só avisar! 😊
