@@ -53,4 +53,4 @@ Com o tempo, anotações de experiências intuitivas e a organização sistemát
 ### **Conclusão: Para Além da Matemática**  
 A matemática é poderosa, mas talvez não seja o fim da linha. Ao explorar conceitos como \( \Theta \) e \( \Omega \), estamos buscando entender algo fundamental: o que valida o que consideramos verdadeiro? Talvez nunca compreendamos completamente \( \Omega \), mas a busca por ele através de \( \Theta \) pode expandir nossa visão do universo e de nós mesmos.
 
-**Imagem final sugerida:** Uma escadaria que desaparece no céu estrelado, simbolizando a jornada em direção ao desconhecido.  
+**Imagem final sugerida:** Uma escadaria que desaparece no céu estrelado, simbolizando a jornada em direção ao desconhecido.
