@@ -1,0 +1,27 @@
+Claro! Aqui está a transcrição do conteúdo da imagem:
+
+---
+
+### **NOOB ❌**
+```python
+numbers = [3, 1, 4, 1, 5, 9]
+sum_total = 0
+
+for num in numbers:
+    sum_total += num
+
+print("Sum of list elements:", sum_total)
+```
+
+---
+
+### **PRO ✅**
+```python
+numbers = [3, 1, 4, 1, 5, 9]
+sum_total = sum(numbers)
+
+print("Sum of list elements:", sum_total)
+```
+
+---
+
