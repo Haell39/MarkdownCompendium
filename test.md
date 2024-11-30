@@ -1,220 +1,69 @@
-### 🟩 **1️⃣ First C# Program**
+### **Basic Commands**
+1. **`git init`**  
+   Initializes a new Git repository in your project folder.
 
-```csharp
-// Import the standard library
-using System;
+2. **`git clone <repository-url>`**  
+   Copies a remote repository to your local machine.
 
-// Define the namespace (code organization)
-namespace HelloWorldApp
-{
-    // Main class
-    class Program
-    {
-        // Main method (entry point)
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!"); // Print to the console
-        }
-    }
-}
-```
+3. **`git status`**  
+   Shows the current status of your working directory, including changes and files staged for commit.
 
-📝 *Explanation*:  
-- `using System`: Imports standard functionalities like input/output.  
-- `static void Main`: The starting method executed by the program.  
+4. **`git add <file>`**  
+   Stages a specific file for commit.  
+   Use `git add .` to stage all changes.
 
----
+5. **`git commit -m "message"`**  
+   Commits the staged changes with a descriptive message.
 
-### 🟩 **2️⃣ Variables and Data Types**
+6. **`git push`**  
+   Uploads your commits to a remote repository.
 
-```csharp
-using System;
+7. **`git pull`**  
+   Fetches and merges changes from a remote repository to your local branch.
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        int number = 10;           // Integer
-        double price = 19.99;      // Decimal
-        string name = "Rafael";    // Text
-        bool isLearning = true;   // True/False
+8. **`git branch`**  
+   Lists all branches in your repository. Use `git branch <branch-name>` to create a new branch.
 
-        Console.WriteLine($"Number: {number}, Price: {price}");
-        Console.WriteLine($"Name: {name}, Is learning: {isLearning}");
-    }
-}
-```
+9. **`git checkout <branch-name>`**  
+   Switches to the specified branch.  
+   Use `git checkout -b <branch-name>` to create and switch to a new branch.
 
-📝 *Explanation*:  
-- `int`: Whole numbers.  
-- `double`: Decimal values.  
-- `string`: Text.  
-- `bool`: True or false.  
+10. **`git merge <branch-name>`**  
+    Merges the specified branch into the current branch.
 
----
+### **Undo Changes**
+11. **`git reset <file>`**  
+    Unstages a file while keeping its changes in the working directory.
 
-### 🟩 **3️⃣ User Input**
+12. **`git reset --hard`**  
+    Resets the working directory to the last commit, discarding all changes.
 
-```csharp
-using System;
+13. **`git revert <commit-hash>`**  
+    Reverts a specific commit by creating a new commit that undoes the changes.
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.Write("Enter your name: ");
-        string name = Console.ReadLine(); // Reads user input
-        Console.WriteLine($"Hello, {name}!");
-    }
-}
-```
+14. **`git stash`**  
+    Temporarily saves changes not ready for commit. Use `git stash pop` to restore them.
 
-📝 *Explanation*:  
-- `Console.ReadLine`: Reads text input from the user in the console.  
+### **Log and History**
+15. **`git log`**  
+    Shows the commit history. Use `git log --oneline` for a concise view.
 
----
+16. **`git diff`**  
+    Shows the changes between commits, branches, or your working directory and the index.
 
-### 🟩 **4️⃣ IF/ELSE Conditional**
+### **Working with Remotes**
+17. **`git remote add <name> <url>`**  
+    Adds a new remote repository.
 
-```csharp
-using System;
+18. **`git fetch <remote>`**  
+    Downloads objects and refs from a remote repository without merging them.
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.Write("Enter your age: ");
-        int age = int.Parse(Console.ReadLine()); // Converts input to integer
+19. **`git remote -v`**  
+    Lists the remote repositories and their URLs.
 
-        if (age >= 18)
-        {
-            Console.WriteLine("You are an adult.");
-        }
-        else
-        {
-            Console.WriteLine("You are a minor.");
-        }
-    }
-}
-```
+### **Tagging**
+20. **`git tag <tag-name>`**  
+    Creates a tag to mark a specific commit.  
+    Use `git push --tags` to upload tags to a remote repository.
 
-📝 *Explanation*:  
-- `if`: Checks a condition.  
-- `else`: Alternative when `if` is false.  
-
----
-
-### 🟩 **5️⃣ Loops**
-
-```csharp
-using System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        for (int i = 1; i <= 5; i++) // Loop from 1 to 5
-        {
-            Console.WriteLine($"Number: {i}");
-        }
-    }
-}
-```
-
-📝 *Explanation*:  
-- `for`: Repeats a block of code until the condition is false.  
-
----
-
-### 🟩 **6️⃣ Creating Methods (Functions)**
-
-```csharp
-using System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        int result = Add(10, 20); // Calls the Add method
-        Console.WriteLine($"Sum result: {result}");
-    }
-
-    static int Add(int a, int b) // Method to add two numbers
-    {
-        return a + b;
-    }
-}
-```
-
-📝 *Explanation*:  
-- `static int Add`: Method that returns an integer.  
-- `return`: Returns the result of the addition.  
-
----
-
-### 🟩 **7️⃣ Working with Lists**
-
-```csharp
-using System;
-using System.Collections.Generic; // Required for lists
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        List<string> fruits = new List<string> { "Apple", "Banana", "Orange" };
-        fruits.Add("Grape"); // Adds an element to the list
-
-        foreach (string fruit in fruits)
-        {
-            Console.WriteLine(fruit);
-        }
-    }
-}
-```
-
-📝 *Explanation*:  
-- `List<string>`: Dynamic list of strings.  
-- `foreach`: Iterates over all items in a collection.  
-
----
-
-### 🟩 **8️⃣ Handling Exceptions (Error Handling)**
-
-```csharp
-using System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        try
-        {
-            Console.Write("Enter a number: ");
-            int number = int.Parse(Console.ReadLine()); // May throw an exception
-            Console.WriteLine($"You entered: {number}");
-        }
-        catch (FormatException)
-        {
-            Console.WriteLine("Error: Please enter a valid number.");
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Unexpected error: {ex.Message}");
-        }
-        finally
-        {
-            Console.WriteLine("Execution completed.");
-        }
-    }
-}
-```
-
-📝 *Explanation*:  
-- `try`: Block to test code that may throw exceptions.  
-- `catch`: Handles specific or general exceptions.  
-- `finally`: Executes code regardless of whether an exception occurred.  
-
----
-
-With this topic, you've covered how to manage errors gracefully in C#! It’s a crucial skill for building robust and user-friendly applications. 🚀
+Would you like any further explanation on these commands?
