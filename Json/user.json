@@ -1,0 +1,13 @@
+[
+  {
+    "username": "rael",
+    "age": 20,
+    "isAdmin": false
+  },
+
+  {
+    "username": "john",
+    "age": 15,
+    "isAdmin": true
+  }
+]
