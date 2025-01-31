@@ -1,0 +1,6 @@
+{
+    "name": "rael",
+    "age": 20,
+    "isEmployee": false,
+    "hobbies": ["reading", "coding", "gaming"]
+}
